@@ -57,8 +57,8 @@ function view_service()
 
     read-host -Prompt "Press enter when you are finished."
 
-    select_log
+    select_service
 
 }
 
-select_Log
+select_service
